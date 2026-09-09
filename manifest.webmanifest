@@ -1,0 +1,18 @@
+{
+  "name": "台指期聰明錢雷達",
+  "short_name": "台指期雷達",
+  "description": "台指期成交分級與聰明錢研究看板",
+  "lang": "zh-TW",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
